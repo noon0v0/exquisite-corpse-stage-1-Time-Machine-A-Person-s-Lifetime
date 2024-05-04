@@ -29,8 +29,8 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ## Comments for each stage
 
 ### 🟥 Stage 1
-- Name/Alias:
-- Github account:
+- Name/Alias: Ruiting Zhuang
+- Github account: https://github.com/noon0v0
 - Published webpage for stage 1:
 
 *... comments to be added here*
