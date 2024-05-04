@@ -33,7 +33,13 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 - Github account: https://github.com/noon0v0
 - Published webpage for stage 1: https://noon0v0.github.io/exquisite-corpse-stage-1-Time-Machine-A-Person-s-Lifetime/
 
-*... comments to be added here*
+Welcome to the Time Machine, where you embark on a marvelous journey through the passages of time. In this mystical realm, I paint vivid scenes from different stages of a lifetime, allowing you to feel the passage of time and the transformations of life.
+
+At the center of the canvas stands a magnificent clock, its hands delineating the 13 different stages of life. Every second, the background shifts like waves of time, carrying us through the river of time. The clock's hands whirl swiftly with the passage of time, and every 13 seconds, we return to the starting point, symbolizing the cyclical nature of time and life's repetitions.
+
+With each movement of the hands, we witness the ups and downs of life. From the first cry of infancy to carrying a backpack and pursuing dreams in school, from the confidence of post-graduation to the anticipation of walking down the aisle, from building a fulfilling family to witnessing the growth of children and bidding them blessings, and then facing aging, illness, watching loved ones depart, and finally, growing old and leaving this world. The relentless movement of the clock prompts us to contemplate the passing of time and reflect deeply on the meaning of life.
+
+In this journey, we experience the unforgiving nature of time and comprehend the preciousness of life. Let us cherish every moment and live a vibrant life, for the passage of time is also our journey of growth and transformation.
 
 ### 🟨 Stage 2
 - Name/Alias:
