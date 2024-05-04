@@ -31,7 +31,7 @@ Reimagine something from a Stage 4 sketch as a living entity or an environment.
 ### 🟥 Stage 1
 - Name/Alias: Ruiting Zhuang
 - Github account: https://github.com/noon0v0
-- Published webpage for stage 1:
+- Published webpage for stage 1: https://noon0v0.github.io/exquisite-corpse-stage-1-Time-Machine-A-Person-s-Lifetime/
 
 *... comments to be added here*
 
